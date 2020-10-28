@@ -28,7 +28,7 @@ These results are in Result folder.
 
 Here, the results of experiment using dataset [1] are showed.
 
-Sorry,Typo **"Hight" → "High"**
+Sorry,Typo **"Hight" → "High"**.
 
 <img src="Result/1.jpg" width=60%>
 <img src="Result/2.jpg" width=60%>
